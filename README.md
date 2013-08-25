@@ -1,7 +1,11 @@
-Duck Service
-============
+The Wealthy Laughing Duck Project
+---------------------------------
 
-Part of Welathy Laughing Duck project
--------------------------------------
+This repository is a [duck component](https://github.com/wealthy-laughing-duck).
+Visit [Wealthy Laughing Duck Project](http://wealthy-laughing-duck.github.io/) for more information.
 
-c++/python service and tools: work in progress
+Backend Service
+===============
+
+This duck component is still work in progress (early stage). It will hold
+c++/python services, allowing clients to query duck data.
